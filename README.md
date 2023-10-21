@@ -1,6 +1,6 @@
 # Price Recommendation for Online Sellers
 
-**Code Clause Verified Project** - [**Credentials**]
+**Code Clause Verified Project** - [**Credentials**](https://mail.google.com/mail/u/1/#inbox/FMfcgzGtxSnzqhnGKJlldBhzwLzxrGCQ?projector=1&messagePartId=0.1)
 
 ![MasterHead](https://www.whenparentstext.com/wp-content/uploads/2019/05/invoice-online-payments-jpg.jpeg)
 
@@ -100,4 +100,4 @@ This summary provides key findings from the project and highlights the performan
 ---
 
 ## Reference
- - [Code Clause Data Science Internship](https://internship.codeclause.com/)
+ - [Code Clause Data Science Internship](https://app.internship.codeclause.com/intern/login)
