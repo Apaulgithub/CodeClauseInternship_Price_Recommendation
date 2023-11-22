@@ -1,6 +1,6 @@
 # Price Recommendation for Online Sellers
 
-**Code Clause Verified Project** - [**Credentials**](https://mail.google.com/mail/u/1/#inbox/FMfcgzGtxSnzqhnGKJlldBhzwLzxrGCQ?projector=1&messagePartId=0.1)
+**Code Clause Verified Project** - [**Credentials**](https://drive.google.com/file/d/1Lq670z4sKioNdnpHFlzGugvkiz3nPJGs/view?usp=sharing)
 
 ![MasterHead](https://www.whenparentstext.com/wp-content/uploads/2019/05/invoice-online-payments-jpg.jpeg)
 
